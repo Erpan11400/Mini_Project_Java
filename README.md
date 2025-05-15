@@ -1,3 +1,3 @@
 # Project Mini Java
 
-Percobaan refactoring
+Percobaan refactoring yang dilakukan di kelas
